@@ -1,8 +1,4 @@
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=000000&center=true&vCenter=true&multiline=true&repeat=true&width=500&height=80&lines=Brian+Borghei;Product+builder.+Open+source+maker." alt="Typing SVG" />
-</p>
-
----
+## Hi, I'm Brian Borghei
 
 I'm a product-minded engineer who fell in love with open source. By day I build and ship products — by night I build tools that help others ship faster.
 
@@ -38,6 +34,14 @@ Currently obsessed with making AI coding assistants actually useful through prod
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=borghei&style=flat-square&color=grey" alt="Profile Views">
 </p>
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/borghei/borghei/snake/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/borghei/borghei/snake/github-contribution-grid-snake.svg">
+    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/borghei/borghei/snake/github-contribution-grid-snake.svg">
+  </picture>
+</div>
 
 ---
 
