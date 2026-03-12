@@ -8,31 +8,12 @@ Currently obsessed with making AI coding assistants actually useful through prod
 
 ### What I'm Building
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/borghei/Claude-Skills">Claude-Skills</a></h3>
-      <p>The largest open-source AI skills library — 199+ production-ready skills for Claude Code, Cursor, Copilot, Codex & more. 13 domains. 210+ Python tools. Used by developers worldwide.</p>
-      <p>
-        <img src="https://img.shields.io/github/stars/borghei/Claude-Skills?style=flat-square&color=yellow" alt="Stars">
-        <img src="https://img.shields.io/github/forks/borghei/Claude-Skills?style=flat-square&color=blue" alt="Forks">
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>More coming soon...</h3>
-      <p>I'm always cooking something. Watch this space.</p>
-    </td>
-  </tr>
-</table>
+[![Claude-Skills](https://github-readme-stats.vercel.app/api/pin/?username=borghei&repo=Claude-Skills&show_owner=true&hide_border=true)](https://github.com/borghei/Claude-Skills)
 
 ### Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=borghei&show_icons=true&count_private=true&hide_rank=true&hide_border=true&include_all_commits=true&theme=default" alt="GitHub Stats">
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=borghei&style=flat-square&color=grey" alt="Profile Views">
 </p>
 
 <div align="center">
