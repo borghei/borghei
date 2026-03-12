@@ -17,10 +17,6 @@ If you're into Claude Code, Cursor, or Copilot — we should talk.
   <img src="https://streak-stats.demolab.com/?user=borghei&theme=transparent&hide_border=true" height="165" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=borghei&theme=github-compact&hide_border=true&area=true" width="95%" />
-</p>
-
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/borghei/borghei/snake/github-contribution-grid-snake-dark.svg">
