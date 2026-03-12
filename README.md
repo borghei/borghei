@@ -9,7 +9,7 @@ If you're into Claude Code, Cursor, or Copilot — we should talk.
 ### What I'm Building
 
 <a href="https://github.com/borghei/Claude-Skills"><img src="https://github-readme-stats.vercel.app/api/pin/?username=borghei&repo=Claude-Skills&hide_border=true&theme=transparent" /></a>
-<a href="https://github.com/borghei/orbiter"><img src="https://github-readme-stats.vercel.app/api/pin/?username=borghei&repo=orbiter&hide_border=true&theme=transparent" /></a> <sup><b>✨ NEW</b></sup>
+<a href="https://github.com/borghei/orbiter"><img src="https://github-readme-stats.vercel.app/api/pin/?username=borghei&repo=orbiter&hide_border=true&theme=transparent" /></a>
 
 ### Stats
 
