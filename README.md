@@ -8,17 +8,8 @@ If you're into Claude Code, Cursor, or Copilot — we should talk.
 
 ### What I'm Building
 
-<table>
-  <tr>
-    <td>
-      <a href="https://github.com/borghei/Claude-Skills"><img src="https://github-readme-stats.vercel.app/api/pin/?username=borghei&repo=Claude-Skills&hide_border=true&theme=transparent" /></a>
-    </td>
-    <td>
-      <sup><b>✨ NEW</b></sup><br>
-      <a href="https://github.com/borghei/orbiter"><img src="https://github-readme-stats.vercel.app/api/pin/?username=borghei&repo=orbiter&hide_border=true&theme=transparent" /></a>
-    </td>
-  </tr>
-</table>
+<a href="https://github.com/borghei/Claude-Skills"><img src="https://github-readme-stats.vercel.app/api/pin/?username=borghei&repo=Claude-Skills&hide_border=true&theme=transparent" /></a>
+<a href="https://github.com/borghei/orbiter"><img src="https://github-readme-stats.vercel.app/api/pin/?username=borghei&repo=orbiter&hide_border=true&theme=transparent" /></a> <sup><b>✨ NEW</b></sup>
 
 ### Stats
 
