@@ -1,46 +1,56 @@
 <p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=000000&center=true&vCenter=true&multiline=true&repeat=true&width=500&height=80&lines=Brian+Borghei;Product+builder.+Open+source+maker." alt="Typing SVG" />
+</p>
+
+<p align="center">
   <a href="https://borghei.me"><img src="https://img.shields.io/badge/borghei.me-000000?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website"></a>&nbsp;
   <a href="https://linkedin.com/in/maborghei"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>&nbsp;
   <a href="https://scholar.google.com/citations?user=Rf5sLj8AAAAJ"><img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white" alt="Google Scholar"></a>&nbsp;
-  <a href="https://github.com/borghei"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>&nbsp;
   <a href="https://instagram.com/borghei"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
 </p>
 
-## Hi, I'm Brian Borghei
+---
 
-Chief Product & Technology Officer based in Berlin. I build products and lead the tech behind them — across FinTech, MedTech, and AI.
+I'm a product-minded engineer who fell in love with open source. By day I build and ship products — by night I build tools that help others ship faster.
 
-### Highlights
+Currently obsessed with making AI coding assistants actually useful through production-ready skill packages. If you've used Claude Code, Cursor, or Copilot — I'm working on making them smarter for you.
 
-- **CPTO** — Leading product and engineering across health-tech and investment holding companies in Europe
-- **Kioosk** — Built and scaled to **€1M revenue in 3 months**, 100K+ users
-- **Snapp!** — Product Manager at the Middle East's largest super app (40M+ users); launched gamification driving 30% purchase growth
-- **ML in Healthcare** — Built models improving patient outcomes by 15% and reducing fluid waste by 19%
-- **Published Researcher** — Book chapter on blockchain & environmental sustainability (Routledge, 2024)
-- **Best Thesis Award** — GISMA University, 2024 (FinTech's impact on EU bank risk-taking, scored 97/100)
-- **AI for Product Management** — Recognized by Pendo, Google & Mind the Product (2024)
+**Based in Berlin. Powered by coffee and pull requests.**
 
-### Education
+### What I'm Building
 
-- **GISMA University of Applied Sciences** — Master's
-- **Sharif University of Technology** — Bachelor's
-
-### Notable Repositories
-
-#### AI & Developer Tools
-
-- [**Claude-Skills**](https://github.com/borghei/Claude-Skills) — 199+ production-ready AI skills for Claude Code, Cursor, Copilot, Codex & more. The largest open-source AI skills library.
-
-#### Quantitative Finance & Trading
-
-- [**crypto-portfolio-optimizer**](https://github.com/borghei/crypto-portfolio-optimizer) — Cryptocurrency portfolio optimizer and simulator for bull-run allocation strategies.
-- [**MT5-Bots**](https://github.com/borghei/MT5-Bots) — MetaTrader 5 Expert Advisors — AI-driven autonomous trading bots (BPR / Double FVG strategy).
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/borghei/Claude-Skills">Claude-Skills</a></h3>
+      <p>The largest open-source AI skills library — 199+ production-ready skills for Claude Code, Cursor, Copilot, Codex & more. 13 domains. 210+ Python tools. Used by developers worldwide.</p>
+      <p>
+        <img src="https://img.shields.io/github/stars/borghei/Claude-Skills?style=flat-square&color=yellow" alt="Stars">
+        <img src="https://img.shields.io/github/forks/borghei/Claude-Skills?style=flat-square&color=blue" alt="Forks">
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>More coming soon...</h3>
+      <p>I'm always cooking something. Watch this space.</p>
+    </td>
+  </tr>
+</table>
 
 ### Stats
 
-![](https://github-readme-stats.vercel.app/api?username=borghei&show_icons=true&count_private=true&hide_rank=true&hide_border=true&include_all_commits=true&theme=default)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=borghei&show_icons=true&count_private=true&hide_rank=true&hide_border=true&include_all_commits=true&theme=default" alt="GitHub Stats">
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=borghei&style=flat-square&color=grey" alt="Profile Views">
+</p>
 
 ---
+
+<p align="center">
+  <i>"The best product is the one that ships."</i>
+</p>
 
 <p align="center">
   <a href="https://borghei.me">borghei.me</a>
