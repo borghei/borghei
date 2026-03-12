@@ -2,13 +2,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=000000&center=true&vCenter=true&multiline=true&repeat=true&width=500&height=80&lines=Brian+Borghei;Product+builder.+Open+source+maker." alt="Typing SVG" />
 </p>
 
-<p align="center">
-  <a href="https://borghei.me"><img src="https://img.shields.io/badge/borghei.me-000000?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website"></a>&nbsp;
-  <a href="https://linkedin.com/in/maborghei"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>&nbsp;
-  <a href="https://scholar.google.com/citations?user=Rf5sLj8AAAAJ"><img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white" alt="Google Scholar"></a>&nbsp;
-  <a href="https://instagram.com/borghei"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
-</p>
-
 ---
 
 I'm a product-minded engineer who fell in love with open source. By day I build and ship products — by night I build tools that help others ship faster.
@@ -53,5 +46,7 @@ Currently obsessed with making AI coding assistants actually useful through prod
 </p>
 
 <p align="center">
-  <a href="https://borghei.me">borghei.me</a>
+  <a href="https://borghei.me"><img src="https://img.shields.io/badge/borghei.me-000000?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website"></a>&nbsp;
+  <a href="https://linkedin.com/in/maborghei"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>&nbsp;
+  <a href="https://scholar.google.com/citations?user=Rf5sLj8AAAAJ"><img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white" alt="Google Scholar"></a>
 </p>
