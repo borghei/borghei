@@ -6,12 +6,6 @@ Right now I'm deep into AI-powered developer tools. The kind of stuff that makes
 
 If you're into Claude Code, Cursor, or Copilot — we should talk.
 
-### Tech I Work With
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,typescript,react,nextjs,aws,docker,kubernetes,terraform&perline=8" />
-</p>
-
 ### What I'm Building
 
 [![Claude-Skills](https://github-readme-stats.vercel.app/api/pin/?username=borghei&repo=Claude-Skills&hide_border=true&theme=transparent)](https://github.com/borghei/Claude-Skills)
