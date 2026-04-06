@@ -8,14 +8,14 @@ If you're into Claude Code, Cursor, or Copilot — we should talk.
 
 ### What I'm Building
 
-<a href="https://github.com/borghei/Claude-Skills"><img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=borghei&repo=Claude-Skills&hide_border=true&theme=github_dark" /></a>
-<a href="https://github.com/borghei/orbiter"><img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=borghei&repo=orbiter&hide_border=true&theme=github_dark" /></a>
-<a href="https://github.com/borghei/ink"><img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=borghei&repo=ink&hide_border=true&theme=github_dark" /></a>
+<a href="https://github.com/borghei/Claude-Skills"><img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=borghei&repo=Claude-Skills&hide_border=true&theme=transparent" /></a>
+<a href="https://github.com/borghei/orbiter"><img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=borghei&repo=orbiter&hide_border=true&theme=transparent" /></a>
+<a href="https://github.com/borghei/ink"><img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=borghei&repo=ink&hide_border=true&theme=transparent" /></a>
 
 ### Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=borghei&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true" height="165" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=borghei&show_icons=true&theme=transparent&hide_border=true&count_private=true&include_all_commits=true" height="165" />
   <img src="https://streak-stats.demolab.com/?user=borghei&theme=transparent&hide_border=true" height="165" />
 </p>
 
