@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:16213e&height=160&section=header&text=Hey,+I'm+Brian&fontSize=36&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,100:7c3aed&height=160&section=header&text=Hey,+I'm+Brian&fontSize=36&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%" />
 
 I like building things people actually use. Spent years doing product and tech — now I'm channeling that energy into open source.
 
@@ -8,9 +8,9 @@ If you're into Claude Code, Cursor, or Copilot — we should talk.
 
 ### What I'm Building
 
-<a href="https://github.com/borghei/Claude-Skills"><img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=borghei&repo=Claude-Skills&hide_border=true&theme=dark&bg_color=00000000" /></a>
-<a href="https://github.com/borghei/orbiter"><img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=borghei&repo=orbiter&hide_border=true&theme=dark&bg_color=00000000" /></a>
-<a href="https://github.com/borghei/ink"><img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=borghei&repo=ink&hide_border=true&theme=dark&bg_color=00000000" /></a>
+<a href="https://github.com/borghei/Claude-Skills"><img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=borghei&repo=Claude-Skills&hide_border=true&bg_color=00000000" /></a>
+<a href="https://github.com/borghei/orbiter"><img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=borghei&repo=orbiter&hide_border=true&bg_color=00000000" /></a>
+<a href="https://github.com/borghei/ink"><img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=borghei&repo=ink&hide_border=true&bg_color=00000000" /></a>
 
 ### Stats
 
@@ -39,4 +39,4 @@ If you're into Claude Code, Cursor, or Copilot — we should talk.
   <a href="https://scholar.google.com/citations?user=Rf5sLj8AAAAJ"><img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white" alt="Google Scholar"></a>
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:16213e&height=100&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,100:7c3aed&height=100&section=footer" width="100%" />
