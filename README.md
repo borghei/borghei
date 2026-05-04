@@ -15,8 +15,8 @@ If you're into Claude Code, Cursor, or Copilot — we should talk.
 ### Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=borghei&show_icons=true&theme=dark&bg_color=00000000&hide_border=true&count_private=true&include_all_commits=true" height="165" />
-  <img src="https://streak-stats.demolab.com/?user=borghei&theme=dark&bg_color=00000000&hide_border=true" height="165" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=borghei&show_icons=true&bg_color=00000000&hide_border=true&count_private=true&include_all_commits=true" height="165" />
+  <img src="https://streak-stats.demolab.com/?user=borghei&background=00000000&hide_border=true" height="165" />
 </p>
 
 <div align="center">
