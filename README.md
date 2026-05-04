@@ -30,9 +30,3 @@ If you're into Claude Code, Cursor, or Copilot — we should talk.
 <p align="center">
   <i>"The best product is the one that ships."</i>
 </p>
-
-<p align="center">
-  <a href="https://borghei.me"><img src="https://img.shields.io/badge/borghei.me-000000?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website"></a>&nbsp;
-  <a href="https://linkedin.com/in/maborghei"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>&nbsp;
-  <a href="https://scholar.google.com/citations?user=Rf5sLj8AAAAJ"><img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white" alt="Google Scholar"></a>
-</p>
