@@ -7,6 +7,7 @@ If you're into Claude Code, Cursor, or Copilot — we should talk.
 ### What I'm Building
 
 <a href="https://github.com/borghei/Claude-Skills"><img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=borghei&repo=Claude-Skills&hide_border=true&bg_color=00000000" /></a>
+<a href="https://github.com/borghei/ai-skills-german-law"><img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=borghei&repo=ai-skills-german-law&hide_border=true&bg_color=00000000" /></a>
 <a href="https://github.com/borghei/orbiter"><img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=borghei&repo=orbiter&hide_border=true&bg_color=00000000" /></a>
 <a href="https://github.com/borghei/ink"><img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=borghei&repo=ink&hide_border=true&bg_color=00000000" /></a>
 
