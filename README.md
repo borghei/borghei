@@ -31,19 +31,6 @@ If you're into Claude Code, Cursor, or Copilot — we should talk.
   </picture>
 </a>
 
-### Stats
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=borghei&show_icons=true&bg_color=00000000&hide_border=true&count_private=true&include_all_commits=true&theme=tokyonight" />
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=borghei&show_icons=true&bg_color=00000000&hide_border=true&count_private=true&include_all_commits=true" height="165" />
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=borghei&background=00000000&hide_border=true&theme=tokyonight" />
-    <img src="https://streak-stats.demolab.com/?user=borghei&background=00000000&hide_border=true" height="165" />
-  </picture>
-</p>
-
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/borghei/borghei/snake/github-contribution-grid-snake-dark.svg">
