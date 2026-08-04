@@ -18,12 +18,6 @@ If you're into Claude Code, Cursor, or Copilot — we should talk.
     <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=borghei&repo=AI-Skills-German-Law&hide_border=true&bg_color=00000000" />
   </picture>
 </a>
-<a href="https://github.com/borghei/occam">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=borghei&repo=occam&hide_border=true&bg_color=00000000&theme=tokyonight" />
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=borghei&repo=occam&hide_border=true&bg_color=00000000" />
-  </picture>
-</a>
 <a href="https://github.com/borghei/ink">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=borghei&repo=ink&hide_border=true&bg_color=00000000&theme=tokyonight" />
