@@ -5,6 +5,16 @@ All notable changes to this project are documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [0.1.1] - 2026-08-14
+
+### Changed
+
+- Restore the visual repo cards in "What I'm Building", replacing the interim markdown table.
+  Cards now come from `opengraph.githubassets.com` — the card GitHub itself generates for a repo
+  link — so they cannot rate-limit or fail independently of GitHub, unlike the `github-readme-stats`
+  instance that broke (its official deployment is currently returning 503).
+- Lay the cards out two per row so three 1200x600 cards do not add ~1,300px of scroll.
+
 ## [0.1.0] - 2026-08-14
 
 ### Changed
