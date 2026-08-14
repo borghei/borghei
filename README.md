@@ -6,24 +6,11 @@ If you're into Claude Code, Cursor, or Copilot — we should talk.
 
 ### What I'm Building
 
-<a href="https://github.com/borghei/Claude-Skills">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=borghei&repo=Claude-Skills&hide_border=true&bg_color=00000000&theme=tokyonight" />
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=borghei&repo=Claude-Skills&hide_border=true&bg_color=00000000" />
-  </picture>
-</a>
-<a href="https://github.com/borghei/AI-Skills-German-Law">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=borghei&repo=AI-Skills-German-Law&hide_border=true&bg_color=00000000&theme=tokyonight" />
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=borghei&repo=AI-Skills-German-Law&hide_border=true&bg_color=00000000" />
-  </picture>
-</a>
-<a href="https://github.com/borghei/ink">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=borghei&repo=ink&hide_border=true&bg_color=00000000&theme=tokyonight" />
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=borghei&repo=ink&hide_border=true&bg_color=00000000" />
-  </picture>
-</a>
+| Project | What it is | |
+| :-- | :-- | :-- |
+| **[Claude-Skills](https://github.com/borghei/Claude-Skills)** | 368 AI skills, 76 expert agents and 859 stdlib Python tools for engineering, PM, marketing, compliance and research — installs on Claude Code, Cursor, Codex, Gemini, Copilot and more. | [![stars](https://img.shields.io/github/stars/borghei/Claude-Skills?style=flat&labelColor=1f2430&color=7aa2f7)](https://github.com/borghei/Claude-Skills/stargazers) |
+| **[AI-Skills-German-Law](https://github.com/borghei/AI-Skills-German-Law)** | 58 plugins and 258 skills for German legal practice and EU compliance (KI-VO, CRA, NIS2, LkSG, DORA, DSA/DMA, CSRD), with statutes linked and case law marked verified. | [![stars](https://img.shields.io/github/stars/borghei/AI-Skills-German-Law?style=flat&labelColor=1f2430&color=7aa2f7)](https://github.com/borghei/AI-Skills-German-Law/stargazers) |
+| **[ink](https://github.com/borghei/ink)** | A terminal markdown reader that actually looks good — syntax highlighting, inline images, mermaid diagrams, 8 themes, tabs and search. | [![stars](https://img.shields.io/github/stars/borghei/ink?style=flat&labelColor=1f2430&color=7aa2f7)](https://github.com/borghei/ink/stargazers) |
 
 <div align="center">
   <picture>
