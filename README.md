@@ -6,28 +6,15 @@ If you're into Claude Code, Cursor, or Copilot — we should talk.
 
 ### What I'm Building
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <a href="https://github.com/borghei/Claude-Skills">
-        <img src="https://opengraph.githubassets.com/1/borghei/Claude-Skills" alt="Claude-Skills — 368 AI skills, 76 expert agents and 859 stdlib Python tools for engineering, PM, marketing, compliance and research" />
-      </a>
-    </td>
-    <td width="50%" valign="top">
-      <a href="https://github.com/borghei/AI-Skills-German-Law">
-        <img src="https://opengraph.githubassets.com/1/borghei/AI-Skills-German-Law" alt="AI-Skills-German-Law — 58 plugins and 258 skills for German legal practice and EU compliance" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <a href="https://github.com/borghei/ink">
-        <img src="https://opengraph.githubassets.com/1/borghei/ink" alt="ink — A terminal markdown reader that actually looks good" />
-      </a>
-    </td>
-    <td width="50%"></td>
-  </tr>
-</table>
+<a href="https://github.com/borghei/Claude-Skills">
+  <img src="https://opengraph.githubassets.com/1/borghei/Claude-Skills" width="49%" alt="Claude-Skills — 368 AI skills, 76 expert agents and 859 stdlib Python tools for engineering, PM, marketing, compliance and research" />
+</a>
+<a href="https://github.com/borghei/AI-Skills-German-Law">
+  <img src="https://opengraph.githubassets.com/1/borghei/AI-Skills-German-Law" width="49%" alt="AI-Skills-German-Law — 58 plugins and 258 skills for German legal practice and EU compliance" />
+</a>
+<a href="https://github.com/borghei/ink">
+  <img src="https://opengraph.githubassets.com/1/borghei/ink" width="49%" alt="ink — A terminal markdown reader that actually looks good" />
+</a>
 
 <div align="center">
   <picture>

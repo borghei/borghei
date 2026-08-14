@@ -5,6 +5,15 @@ All notable changes to this project are documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [0.1.2] - 2026-08-14
+
+### Fixed
+
+- Drop the table wrapper around the project cards. It rendered GitHub's markdown table borders as
+  grid lines boxing each card, and the filler cell needed to pad the odd third card showed up as an
+  empty bordered box. Cards are now plain inline images at 49% width, which wrap two per row on
+  their own and carry no table chrome.
+
 ## [0.1.1] - 2026-08-14
 
 ### Changed
