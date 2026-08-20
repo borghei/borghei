@@ -4,26 +4,6 @@ Right now I'm deep into AI-powered developer tools. The kind of stuff that makes
 
 If you're into Claude Code, Cursor, or Copilot — we should talk.
 
-### What I'm Building
-
-<a href="https://github.com/borghei/Claude-Skills">
-  <img src="https://opengraph.githubassets.com/1/borghei/Claude-Skills" width="49%" alt="Claude-Skills — 368 AI skills, 76 expert agents and 859 stdlib Python tools for engineering, PM, marketing, compliance and research" />
-</a>
-<a href="https://github.com/borghei/AI-Skills-German-Law">
-  <img src="https://opengraph.githubassets.com/1/borghei/AI-Skills-German-Law" width="49%" alt="AI-Skills-German-Law — 58 plugins and 258 skills for German legal practice and EU compliance" />
-</a>
-<a href="https://github.com/borghei/ink">
-  <img src="https://opengraph.githubassets.com/1/borghei/ink" width="49%" alt="ink — A terminal markdown reader that actually looks good" />
-</a>
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/borghei/borghei/snake/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/borghei/borghei/snake/github-contribution-grid-snake.svg">
-    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/borghei/borghei/snake/github-contribution-grid-snake.svg" width="95%">
-  </picture>
-</div>
-
 ---
 
 <p align="center">
